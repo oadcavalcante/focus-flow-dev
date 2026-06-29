@@ -1,24 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+
+⚡
+
+# Focus Flow
+
+**Dashboard de produtividade para desenvolvedores com widgets modulares de foco, tarefas e ferramentas do dia a dia.**
+
+<br />
+
+[![Repositório público](https://img.shields.io/badge/repo-público-2ea44f?style=flat-square&logo=github&logoColor=white)](https://github.com/oadcavalcante/focus-flow-dev)
+
+<br />
+
+[![Next.js 15](https://img.shields.io/badge/Next.js-000000?style=flat-square&logoColor=fff&logo=nextdotjs)](https://github.com/oadcavalcante/focus-flow-dev) [![React 19](https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=000&logo=react)](https://github.com/oadcavalcante/focus-flow-dev) [![Tailwind CSS 4](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logoColor=fff&logo=tailwindcss)](https://github.com/oadcavalcante/focus-flow-dev) [![Framer Motion](https://img.shields.io/badge/Framer_Motion-555555?style=flat-square)](https://github.com/oadcavalcante/focus-flow-dev) [![Radix UI](https://img.shields.io/badge/Radix_UI-555555?style=flat-square)](https://github.com/oadcavalcante/focus-flow-dev)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=fff&logo=typescript)](https://github.com/oadcavalcante/focus-flow-dev) [![Zustand](https://img.shields.io/badge/Zustand-555555?style=flat-square)](https://github.com/oadcavalcante/focus-flow-dev)
+
+<br />
+
+[Stack completa ↓](#stack)
+
+<br />
+
+[Documentação](https://github.com/oadcavalcante/focus-flow-dev/blob/main/README.md) · [Deploy](#deploy) · [Issues](https://github.com/oadcavalcante/focus-flow-dev/issues)
+
+</div>
+
+## Features
+
+- ✨ Widgets de Pomodoro, cronômetro, to-do list e notas rápidas
+- 🚀 Player de música para foco e busca Google integrada
+- ⚡ Snippets de código, checklist de deploy e documentação embutida
+- 🎯 Temas customizáveis e posições de widgets persistidas no localStorage
+- 🔧 Interface animada com Framer Motion e estado global via Zustand
 
 ## Getting Started
 
-First, run the development server:
+| Ambiente | Comando / Link |
+|----------|----------------|
+| Primeira vez | `npm install && npm run dev` |
+| Documentação | [README](https://github.com/oadcavalcante/focus-flow-dev/blob/main/README.md) |
+| Produção | N/A |
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Frontend:** Next.js 15, React 19, Tailwind CSS 4, Framer Motion, Radix UI
+- **Outros:** TypeScript, Zustand
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
 ## Learn More
 
